@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F8E2CF&text=Suyeon%20Park&height=150&animation=fadeIn&fontAlignY=35&fontSize=30&fontColor=faa99d)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F8E2CF&text=Suyeon%20Park&height=150&animation=fadeIn&fontAlignY=35&fontSize=30&fontColor=e5a8af)
 
 <div align="center">
 <h3>🛠 Tech Stack 🛠</h3>
@@ -42,10 +42,10 @@
  <p align="center">
 
 <a href="https://github.com/suyeonnii">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=suyeonnii&include_all_commits=true&show_icons=true&theme=default&title_color=dd9187&text_color=faa99d&icon_color=dd9187&layout=compact&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=suyeonnii&include_all_commits=true&show_icons=true&theme=default&title_color=dd9187&text_color=c099a3&icon_color=dd9187&layout=compact&count_private=true" />
 </a>
 <a href="https://github.com/suyeonnii">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyeonnii&theme=default&title_color=dd9187&text_color=faa99d&icon_color=dd9187&layout=compact&exclude_repo=OPNE-CV,Python,Project,AWS_Serverless,Google_Image_Crawling,MFC-WINDOW-PROGRAMMING" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyeonnii&theme=default&title_color=dd9187&text_color=c099a3&icon_color=dd9187&layout=compact&exclude_repo=OPNE-CV,Python,Project,AWS_Serverless,Google_Image_Crawling,MFC-WINDOW-PROGRAMMING" />
 </a>
 
 <br clear="left"/>
