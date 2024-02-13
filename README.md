@@ -42,10 +42,10 @@
  <p align="center">
 
 <a href="https://github.com/suyeonnii">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=suyeonnii&include_all_commits=true&show_icons=true&theme=solarized-light&title_color=939cf9&text_color=d7a1f1&icon_color=939cf9&hide_border=true&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=suyeonnii&include_all_commits=true&show_icons=true&theme=default&title_color=dd9187&text_color=faa99d&icon_color=dd9187&layout=compact&count_private=true" />
 </a>
 <a href="https://github.com/suyeonnii">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyeonnii&theme=solarized-light&title_color=939cf9&text_color=d7a1f1&icon_color=939cf9&layout=compact&exclude_repo=OPNE-CV,Python,Project,AWS_Serverless,Google_Image_Crawling,MFC-WINDOW-PROGRAMMING" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyeonnii&theme=default&title_color=dd9187&text_color=faa99d&icon_color=dd9187&layout=compact&exclude_repo=OPNE-CV,Python,Project,AWS_Serverless,Google_Image_Crawling,MFC-WINDOW-PROGRAMMING" />
 </a>
 
 <br clear="left"/>
