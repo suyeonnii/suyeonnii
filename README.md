@@ -38,7 +38,8 @@
     <img src ="https://img.shields.io/badge/PostMan-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white">
   </div>
 
-<!--  <p align="center">
+---
+ <p align="center">
 
 <a href="https://github.com/suyeonnii">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=suyeonnii&include_all_commits=true&show_icons=true&theme=nord&hide_border=true&count_private=true" />
@@ -48,9 +49,15 @@
 </a>
 
 <br clear="left"/>
+</p>
 
-</p> -->
+---
 
+<h3 align="center"> 🐣 Follow Me 🐣 </h3>
+<p align="center">
+  <a href="https://velog.io/@suyeoni"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@suyeoni"/></a>&nbsp
+  <a href="mailto:suyeon9288@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=suyeon9288@gmail.com"/></a>
+</p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=F8E2CF&height=100&section=footer)
   <br>
