@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F8E2CF&text=Suyeon%20Park&height=150&animation=fadeIn&fontAlignY=35&fontSize=30&fontColor=fa9c8e)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F8E2CF&text=Suyeon%20Park&height=150&animation=fadeIn&fontAlignY=35&fontSize=30&fontColor=f9aa9e)
 
 <div align="center">
 <h3>🛠 Tech Stack 🛠</h3>
