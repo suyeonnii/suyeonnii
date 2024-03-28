@@ -8,6 +8,7 @@
   <div>
     <img src="https://img.shields.io/badge/Java-FFC27C?style=for-the-badge&logo=openjdk&logoColor=white"> 
     <img src="https://img.shields.io/badge/Python-A8C0E6?style=for-the-badge&logo=Python&logoColor=white">
+    <img src=https://img.shields.io/badge/C-8AB7D3?style=for-the-badge&logo=c&logoColor=white>
 <!--     <img src="https://img.shields.io/badge/HTML5-F7A69E가?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-82B9DD?style=for-the-badge&logo=css3&logoColor=white">  -->
   </div>
