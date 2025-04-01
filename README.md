@@ -49,7 +49,6 @@
   <img src="https://render.gitanimals.org/farms/suyeonnii" width="320" height="195"/>
 </a>
 
-
 </p>
 
 ---
