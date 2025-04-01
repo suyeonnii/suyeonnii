@@ -43,13 +43,13 @@
  <p align="center">
 
 <a href="https://github.com/suyeonnii">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=suyeonnii&include_all_commits=true&show_icons=true&theme=default&title_color=dd9187&text_color=c099a3&icon_color=dd9187&layout=compact&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suyeonnii&include_all_commits=true&show_icons=true&theme=default&title_color=dd9187&text_color=c099a3&icon_color=dd9187&layout=compact&count_private=true" />
 </a>
 <a href="https://github.com/suyeonnii">
-  <img align="left" src="https://render.gitanimals.org/farms/suyeonnii" width="300" height="200"/>
+  <img src="https://render.gitanimals.org/farms/suyeonnii" width="320" height="195"/>
 </a>
 
-<br clear="left"/>
+
 </p>
 
 ---
