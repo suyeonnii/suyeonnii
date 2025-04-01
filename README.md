@@ -38,20 +38,18 @@
     <img src ="https://img.shields.io/badge/Figma-C95E5E.svg?&style=for-the-badge&logo=Figma&logoColor=white">
     <img src ="https://img.shields.io/badge/PostMan-BE8666.svg?&style=for-the-badge&logo=Postman&logoColor=white">
   </div>
-
----
+<hr>
  <p align="center">
 
 <a href="https://github.com/suyeonnii">
-  <img src="https://github-readme-stats.vercel.app/api?username=suyeonnii&include_all_commits=true&show_icons=true&theme=default&title_color=dd9187&text_color=c099a3&icon_color=dd9187&layout=compact&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suyeonnii&include_all_commits=true&show_icons=true&theme=default&title_color=dd9187&text_color=c099a3&icon_color=dd9187&layout=compact&count_private=true"/>
 </a>
 <a href="https://github.com/suyeonnii">
-  <img src="https://render.gitanimals.org/farms/suyeonnii" width="320" height="195"/>
+  <img src="https://render.gitanimals.org/farms/suyeonnii" width="320" height="210"/>
 </a>
 
 </p>
-
----
+<hr>
 
 <h3 align="center"> 🐣 Follow Me 🐣 </h3>
 <p align="center">
